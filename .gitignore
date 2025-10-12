@@ -1,2 +1,5 @@
 /target
 .vscode
+.claude/data/sessions
+example/.claude/data/sessions
+example
